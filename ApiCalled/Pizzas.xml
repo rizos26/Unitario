@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pizzas>
+	<pizza nombre="Barbacoa" precio="8">
+		<ingrediente nombre="Salsa Barbacoa"/>
+		<ingrediente nombre="Mozzarella"/>
+		<ingrediente nombre="Pollo"/>
+		<ingrediente nombre="Bacon"/>
+		<ingrediente nombre="Ternera"/>
+	</pizza>
+	<pizza nombre="Margarita" precio="6">
+		<ingrediente nombre="Tomate"/>
+		<ingrediente nombre="Jamón"/>
+		<ingrediente nombre="Queso"/>
+	</pizza>
+	<pizza nombre="Vegana" precio="36">
+		<ingrediente nombre="Tomate"/>
+		<ingrediente nombre="Tofu"/>
+	</pizza>
+	<pizza nombre="Serrana" precio="6">
+		<ingrediente nombre="Tomate"/>
+		<ingrediente nombre="Carne"/>
+	</pizza>
+</pizzas>
